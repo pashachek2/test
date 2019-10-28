@@ -1,0 +1,13 @@
+{
+    "name": "pashachek2/test",
+    "description": "php translation tool",
+    "license": "MIT",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "CliTranslate\\Translit\\": "src/"
+        }
+    }
+}
+
+
